@@ -4,7 +4,7 @@ By Abdullah Hasani
 
 This repository contains code from the live workshop "Intro to Manim". It contains various Manim scenes demonstrating different shapes, transformations, and animations.
 
-Each Python file (e.g., `scene.py`) contains classes representing distinct scenes.  To run a specific scene, use the `manim` command-line tool.
+The Python file (e.g., `scene.py`) contains classes representing distinct scenes.  To run a specific scene, use the `manim` command-line tool.
 
 **Example Usage:**
 
