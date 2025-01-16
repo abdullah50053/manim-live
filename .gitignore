@@ -1,0 +1,13 @@
+# Ignore build artifacts
+/build
+/dist
+/.venv
+/media
+/__pycache__
+# Ignore temporary files
+*.pyc
+*.log
+# Ignore cache files
+.cache
+# Ignore other files
+.DS_Store
